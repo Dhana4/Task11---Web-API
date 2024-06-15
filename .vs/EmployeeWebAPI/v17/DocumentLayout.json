@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD84A12D-BDEF-4D2F-9F0D-68DD78F08877}|EmployeeWebAPI\\EmployeeWebAPI.API.csproj|c:\\users\\lakshmi.m\\source\\repos\\employeewebapi\\employeewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD84A12D-BDEF-4D2F-9F0D-68DD78F08877}|EmployeeWebAPI\\EmployeeWebAPI.API.csproj|solutionrelative:employeewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD84A12D-BDEF-4D2F-9F0D-68DD78F08877}|EmployeeWebAPI\\EmployeeWebAPI.API.csproj|c:\\users\\lakshmi.m\\source\\repos\\employeewebapi\\employeewebapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD84A12D-BDEF-4D2F-9F0D-68DD78F08877}|EmployeeWebAPI\\EmployeeWebAPI.API.csproj|solutionrelative:employeewebapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD84A12D-BDEF-4D2F-9F0D-68DD78F08877}|EmployeeWebAPI\\EmployeeWebAPI.API.csproj|c:\\users\\lakshmi.m\\source\\repos\\employeewebapi\\employeewebapi\\custommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD84A12D-BDEF-4D2F-9F0D-68DD78F08877}|EmployeeWebAPI\\EmployeeWebAPI.API.csproj|solutionrelative:employeewebapi\\custommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03923804-7B92-41CB-807D-5DB1B2CF2981}|EmployeeWebAPI.Service\\EmployeeWebAPI.Service.csproj|c:\\users\\lakshmi.m\\source\\repos\\employeewebapi\\employeewebapi.service\\managers\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03923804-7B92-41CB-807D-5DB1B2CF2981}|EmployeeWebAPI.Service\\EmployeeWebAPI.Service.csproj|solutionrelative:employeewebapi.service\\managers\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A75447-EC2D-4258-B517-571060711AE9}|EmployeeWebAPI.Data\\EmployeeWebAPI.Data.csproj|c:\\users\\lakshmi.m\\source\\repos\\employeewebapi\\employeewebapi.data\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A75447-EC2D-4258-B517-571060711AE9}|EmployeeWebAPI.Data\\EmployeeWebAPI.Data.csproj|solutionrelative:employeewebapi.data\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282E0B01-F474-4A52-9301-657CC70B5357}|Models\\EmployeeWebAPI.Models.csproj|c:\\users\\lakshmi.m\\source\\repos\\employeewebapi\\models\\dtos\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282E0B01-F474-4A52-9301-657CC70B5357}|Models\\EmployeeWebAPI.Models.csproj|solutionrelative:models\\dtos\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeWebAPI\\EmployeeWebAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "EmployeeWebAPI\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeWebAPI\\EmployeeWebAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "EmployeeWebAPI\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:40:15.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeManager.cs",
+              "DocumentMoniker": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeWebAPI\\EmployeeWebAPI.Service\\Managers\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "EmployeeWebAPI.Service\\Managers\\EmployeeManager.cs",
+              "ToolTip": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeWebAPI\\EmployeeWebAPI.Service\\Managers\\EmployeeManager.cs",
+              "RelativeToolTip": "EmployeeWebAPI.Service\\Managers\\EmployeeManager.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowBsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:57:57.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeWebAPI\\EmployeeWebAPI.Data\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeWebAPI.Data\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeWebAPI\\EmployeeWebAPI.Data\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeWebAPI.Data\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:21:14.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeWebAPI\\EmployeeWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeWebAPI\\EmployeeWebAPI\\Program.cs",
+              "RelativeToolTip": "EmployeeWebAPI\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:41:30.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeWebAPI\\EmployeeWebAPI\\CustomMiddleware.cs",
+              "RelativeDocumentMoniker": "EmployeeWebAPI\\CustomMiddleware.cs",
+              "ToolTip": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeWebAPI\\EmployeeWebAPI\\CustomMiddleware.cs",
+              "RelativeToolTip": "EmployeeWebAPI\\CustomMiddleware.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:21:56.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeDetails.cs",
+              "DocumentMoniker": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeWebAPI\\Models\\DTOs\\EmployeeDetails.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\EmployeeDetails.cs",
+              "ToolTip": "C:\\Users\\lakshmi.m\\source\\repos\\EmployeeWebAPI\\Models\\DTOs\\EmployeeDetails.cs",
+              "RelativeToolTip": "Models\\DTOs\\EmployeeDetails.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:56:40.161Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+C:\Users\lakshmi.m\source\repos\EmployeeWebAPI\Models\bin\Debug\net8.0\EmployeeWebAPI.Models.deps.json
+C:\Users\lakshmi.m\source\repos\EmployeeWebAPI\Models\bin\Debug\net8.0\EmployeeWebAPI.Models.dll
+C:\Users\lakshmi.m\source\repos\EmployeeWebAPI\Models\bin\Debug\net8.0\EmployeeWebAPI.Models.pdb
+C:\Users\lakshmi.m\source\repos\EmployeeWebAPI\Models\obj\Debug\net8.0\EmployeeWebAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakshmi.m\source\repos\EmployeeWebAPI\Models\obj\Debug\net8.0\EmployeeWebAPI.Models.AssemblyInfoInputs.cache
+C:\Users\lakshmi.m\source\repos\EmployeeWebAPI\Models\obj\Debug\net8.0\EmployeeWebAPI.Models.AssemblyInfo.cs
+C:\Users\lakshmi.m\source\repos\EmployeeWebAPI\Models\obj\Debug\net8.0\EmployeeWebAPI.Models.csproj.CoreCompileInputs.cache
+C:\Users\lakshmi.m\source\repos\EmployeeWebAPI\Models\obj\Debug\net8.0\EmployeeWebAPI.Models.dll
+C:\Users\lakshmi.m\source\repos\EmployeeWebAPI\Models\obj\Debug\net8.0\refint\EmployeeWebAPI.Models.dll
+C:\Users\lakshmi.m\source\repos\EmployeeWebAPI\Models\obj\Debug\net8.0\EmployeeWebAPI.Models.pdb
+C:\Users\lakshmi.m\source\repos\EmployeeWebAPI\Models\obj\Debug\net8.0\ref\EmployeeWebAPI.Models.dll
+C:\Users\lakshmi.m\source\repos\EmployeeWebAPI\Models\bin\Debug\net8.0\EmployeeWebAPI.Models.runtimeconfig.json
+C:\Users\lakshmi.m\source\repos\EmployeeWebAPI\Models\obj\Debug\net8.0\EmployeeWebAPI.Models.genruntimeconfig.cache
+C:\Users\lakshmi.m\source\repos\EmployeeWebAPI\Models\obj\Debug\net8.0\EmployeeWebAPI.Models.csproj.AssemblyReference.cache
+c:\Users\lakshmi.m\OneDrive - Technovert\Tasks\EmployeeWebAPI\Models\bin\Debug\net8.0\EmployeeWebAPI.Models.deps.json
+c:\Users\lakshmi.m\OneDrive - Technovert\Tasks\EmployeeWebAPI\Models\bin\Debug\net8.0\EmployeeWebAPI.Models.runtimeconfig.json
+C:\Users\lakshmi.m\OneDrive - Technovert\Tasks\EmployeeWebAPI\Models\bin\Debug\net8.0\EmployeeWebAPI.Models.dll
+C:\Users\lakshmi.m\OneDrive - Technovert\Tasks\EmployeeWebAPI\Models\bin\Debug\net8.0\EmployeeWebAPI.Models.pdb
+C:\Users\lakshmi.m\OneDrive - Technovert\Tasks\EmployeeWebAPI\Models\obj\Debug\net8.0\EmployeeWebAPI.Models.csproj.AssemblyReference.cache
+C:\Users\lakshmi.m\OneDrive - Technovert\Tasks\EmployeeWebAPI\Models\obj\Debug\net8.0\EmployeeWebAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lakshmi.m\OneDrive - Technovert\Tasks\EmployeeWebAPI\Models\obj\Debug\net8.0\EmployeeWebAPI.Models.AssemblyInfoInputs.cache
+C:\Users\lakshmi.m\OneDrive - Technovert\Tasks\EmployeeWebAPI\Models\obj\Debug\net8.0\EmployeeWebAPI.Models.AssemblyInfo.cs
+C:\Users\lakshmi.m\OneDrive - Technovert\Tasks\EmployeeWebAPI\Models\obj\Debug\net8.0\EmployeeWebAPI.Models.csproj.CoreCompileInputs.cache
+C:\Users\lakshmi.m\OneDrive - Technovert\Tasks\EmployeeWebAPI\Models\obj\Debug\net8.0\EmployeeWebAPI.Models.dll
+C:\Users\lakshmi.m\OneDrive - Technovert\Tasks\EmployeeWebAPI\Models\obj\Debug\net8.0\refint\EmployeeWebAPI.Models.dll
+C:\Users\lakshmi.m\OneDrive - Technovert\Tasks\EmployeeWebAPI\Models\obj\Debug\net8.0\EmployeeWebAPI.Models.pdb
+c:\Users\lakshmi.m\OneDrive - Technovert\Tasks\EmployeeWebAPI\Models\obj\Debug\net8.0\EmployeeWebAPI.Models.genruntimeconfig.cache
+c:\Users\lakshmi.m\OneDrive - Technovert\Tasks\EmployeeWebAPI\Models\obj\Debug\net8.0\ref\EmployeeWebAPI.Models.dll
